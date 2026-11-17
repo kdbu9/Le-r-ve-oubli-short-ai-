@@ -86,3 +86,22 @@ Estimation pour une petite équipe (toi plus Claude Code, avec de l'aide ponctue
 2. Tu lances `scripts/audit_poste.py` sur ta machine.
 3. Je produis le blockout du **salon et de la cuisine**, et je prépare les vignettes de l'**animatique** sur la base de la liste des plans.
 4. Pour les personnages, selon ta décision sur la sculpture : soit je prépare la base de travail et ses scripts (proportions, Rigify, matériaux), soit j'intègre les modèles fournis.
+
+## 9. Test complémentaire — tête sur base libre de droits (MakeHuman/MPFB, CC0)
+
+Script : `scripts/blender/test_tete_base_mpfb.py` · Rendu : `production/rendus_tests/CHR_amadou/CHR_amadou_TETE_test_v001_planche.png` (environ 30 s par portrait, 432×540, CPU).
+
+**Méthode :** le maillage de base et les cibles de morphologie MakeHuman (CC0) sont lus comme des données par notre propre script. L'extension MPFB elle-même n'est pas exécutée. Les deux âges partagent exactement la même base de visage, ce qui respecte la règle de continuité. Peau en diffusion sous-surfacique, yeux procéduraux, cheveux, sourcils et barbe en poils Cycles.
+
+**Ce qui fonctionne :**
+- la continuité adulte/ado à partir d'une base unique ;
+- un rendu de peau foncée crédible ;
+- des unités d'expression déjà disponibles (sourire, sourcils, paupières), réutilisables pour le rig facial ;
+- l'automatisation complète.
+
+**Ce qui ne va pas encore :**
+- les cheveux crépus font « casque » : les particules ne reproduisent pas les boucles serrées. Il faut un vrai travail de coiffure (système de courbes de Blender), réglé à la main ;
+- le visage reste semi-réaliste, de type « humain numérique », et non le style chaleureux et stylisé des planches. Pour s'en approcher, il faut sculpter à la main (proportions, yeux, volumes, simplification des formes) ;
+- les vêtements sont des coques provisoires.
+
+**Conclusion :** la base CC0 est un bon point de départ technique (topologie, UV, expressions, rig). Elle ne remplace pas la sculpture et la coiffure à la main, qui restent nécessaires pour atteindre le niveau visé.
