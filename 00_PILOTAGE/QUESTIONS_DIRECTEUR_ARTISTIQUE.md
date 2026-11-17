@@ -4,12 +4,7 @@ Classées par ordre d'impact sur le planning.
 
 ## A. Bloquantes pour continuer
 
-1. **Machine de production** : sur quel ordinateur la production se fera-t-elle ? Merci de lancer `python scripts/audit_poste.py` dessus et de m'envoyer le rapport (GPU, RAM, version de Blender).
-2. **Sculpture des personnages** : qui réalise les visages et les corps finaux ?
-   - (a) toi, dans Blender ;
-   - (b) un ou une artiste 3D en renfort ;
-   - (c) une base libre de droits (MPFB, CC0) que l'on stylise ;
-   - (d) un style volontairement plus simple, réalisable surtout par script (qualité inférieure à l'objectif « long métrage »).
+1. ~~Machine de production~~ et 2. ~~Sculpture des personnages~~ → **sans objet** : production en vidéo IA (décision du 17/11/2026, voir `JOURNAL_DECISIONS.md`).
 3. **Métier précis de l'agent municipal** (propreté, espaces verts, entretien…). Il détermine le costume, les outils, les gestes et les bruitages des séquences 1 et 5.
 4. ~~Lieu de la discussion mère-fils~~ → **réglé : le salon** (17/11/2026).
 
