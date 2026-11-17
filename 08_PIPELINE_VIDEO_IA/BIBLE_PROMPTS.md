@@ -74,12 +74,9 @@ A contemporary working-class neighborhood in a French city: 6-to-10-storey resid
 ```
 A neighborhood football pitch with green artificial turf and white lines, two small goals with nets, a tall green metal fence, apartment buildings and trees around it, a few parents watching from the low fence and benches on the side.
 ```
-`DECOR_SALON` / `DECOR_CUISINE` (un seul des deux sera retenu, question n° 4) :
+`DECOR_SALON` (lieu retenu pour la scène mère-fils, décision du 17/11/2026) :
 ```
-A warm family living room: a worn fabric sofa with patterned cushions, a wooden coffee table, a floor lamp, family photos on the wall, green plants on the windowsill, lived-in and modest, neither luxurious nor poor.
-```
-```
-A family kitchen-dining area: a wooden table with a printed tablecloth, chairs, a fruit bowl, a fridge with magnets, cupboards, a tea towel, warm lamp light.
+A warm family living room: a worn fabric sofa with patterned cushions, a wooden coffee table and a small dining table where school notebooks lie open, a floor lamp, family photos on the wall, green plants on the windowsill, lived-in and modest, neither luxurious nor poor.
 ```
 `DECOR_CHAMBRE` :
 ```

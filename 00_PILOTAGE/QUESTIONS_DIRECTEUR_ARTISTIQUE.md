@@ -11,7 +11,7 @@ Classées par ordre d'impact sur le planning.
    - (c) une base libre de droits (MPFB, CC0) que l'on stylise ;
    - (d) un style volontairement plus simple, réalisable surtout par script (qualité inférieure à l'objectif « long métrage »).
 3. **Métier précis de l'agent municipal** (propreté, espaces verts, entretien…). Il détermine le costume, les outils, les gestes et les bruitages des séquences 1 et 5.
-4. **Lieu de la discussion mère-fils** : salon ou cuisine ? On ne construira que celui-là en priorité.
+4. ~~Lieu de la discussion mère-fils~~ → **réglé : le salon** (17/11/2026).
 
 ## B. À trancher pendant la préproduction
 

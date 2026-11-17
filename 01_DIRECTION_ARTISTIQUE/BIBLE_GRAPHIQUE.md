@@ -1,9 +1,9 @@
 # Bible graphique — Version de référence de travail
 
 ## Direction générale
-**3D stylisée à réalisme émotionnel** : personnages légèrement stylisés, proportions lisibles, visages très expressifs, matières soignées, environnements détaillés et éclairage cinématographique. Le résultat doit être attachant pour les enfants et subtil pour les adultes.
+**3D stylisée de long métrage, d'après nos planches de référence** (`REFERENCES_VISUELLES/`, décision du directeur artistique du 17/11/2026) : personnages au design attachant, formes douces et arrondies, grands yeux très expressifs, peau chaude aux nuances naturelles, cheveux crépus texturés, matières soignées, environnements détaillés et éclairage cinématographique chaud. Le résultat doit être attachant pour les enfants et subtil pour les adultes.
 
-Ne pas imiter le style identifiable d'un studio ou d'un film précis. Les références aux grands films d'animation ne concernent que le niveau d'exigence général : qualité d'animation, expressivité, cohérence et finition.
+Ce style est un genre (l'animation 3D stylisée de long métrage) : on vise ce rendu, mais nos personnages, décors et designs restent originaux. Ne copier aucun personnage, film ou design existant. Dans les prompts et documents de production, décrire le style par ses caractéristiques, sans nommer de studio ni de film.
 
 ## Principes visuels
 - Silhouettes immédiatement lisibles.

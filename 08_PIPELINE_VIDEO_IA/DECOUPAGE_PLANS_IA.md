@@ -112,7 +112,7 @@
 - **Image clé :** [DECOR_SALON] [PERSO_AMADOU_ADO] [PERSO_MERE] Amadou comes in, ball under his arm, still glowing; his mother sits at the table with his school notebooks open.
 - **Vidéo :** He enters smiling; she looks up from the notebooks, gentle but serious.
 - **Son / dialogue :** Porte, pas, silence
-- **Note :** Décor salon OU cuisine (question n° 4)
+- **Note :** Décor : salon (validé)
 
 ### SQ030_SH020_C01 — 1:25–1:30 (5 s) · LUM_MAISON
 - **Références :** REF_mere_portrait + REF_mere_turnaround + REF_mere_expressions

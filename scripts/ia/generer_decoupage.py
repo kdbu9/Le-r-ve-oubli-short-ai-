@@ -55,7 +55,7 @@ PLANS = [
     ("SQ030_SH010_C01", 4, "LUM_MAISON", "-", "[DECOR_QUARTIER] Exterior of the family's apartment building at dusk, a few lit windows.",
      "Slow push-in toward one warmly lit window.", "Ambiance du soir, musique réduite", "Transition vers le foyer"),
     ("SQ030_SH010_C02", 6, "LUM_MAISON", RT + " + " + RM, "[DECOR_SALON] [PERSO_AMADOU_ADO] [PERSO_MERE] Amadou comes in, ball under his arm, still glowing; his mother sits at the table with his school notebooks open.",
-     "He enters smiling; she looks up from the notebooks, gentle but serious.", "Porte, pas, silence", "Décor salon OU cuisine (question n° 4)"),
+     "He enters smiling; she looks up from the notebooks, gentle but serious.", "Porte, pas, silence", "Décor : salon (validé)"),
     ("SQ030_SH020_C01", 5, "LUM_MAISON", RM, "[PERSO_MERE] Medium close-up of the mother, a notebook in her hand.",
      "She speaks calmly, tapping the notebook softly, caring but firm.", "DIA_MERE_01 (lipsync)", "Dialogue à valider"),
     ("SQ030_SH020_C02", 5, "LUM_MAISON", RT, "[PERSO_AMADOU_ADO] Medium close-up of Amadou, holding the ball.",
