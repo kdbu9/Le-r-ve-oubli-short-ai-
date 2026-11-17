@@ -5,7 +5,7 @@ Classées par ordre d'impact sur le planning.
 ## A. Bloquantes pour continuer
 
 1. ~~Machine de production~~ et 2. ~~Sculpture des personnages~~ → **sans objet** : production en vidéo IA (décision du 17/11/2026, voir `JOURNAL_DECISIONS.md`).
-3. **Métier précis de l'agent municipal** (propreté, espaces verts, entretien…). Il détermine le costume, les outils, les gestes et les bruitages des séquences 1 et 5.
+3. ~~Métier précis de l'agent~~ → **réglé : agent de propreté, il balaie les rues** (17/11/2026).
 4. ~~Lieu de la discussion mère-fils~~ → **réglé : le salon** (17/11/2026).
 
 ## B. À trancher pendant la préproduction

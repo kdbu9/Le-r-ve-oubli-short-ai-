@@ -11,16 +11,16 @@
 
 ### SQ010_SH020_C01 — 0:08–0:13 (5 s) · LUM_PRESENT
 - **Références :** REF_amadouAdulte_visage + REF_amadouAdulte_turnaround
-- **Image clé :** [DECOR_QUARTIER] [PERSO_AMADOU_ADULTE] Medium-wide shot, Amadou at work on the sidewalk [GESTE_TRAVAIL].
-- **Vidéo :** Amadou works calmly and methodically, steady routine movements, static camera.
-- **Son / dialogue :** Bruits du travail
-- **Note :** [GESTE_TRAVAIL] dépend du métier précis (question n° 3)
+- **Image clé :** [DECOR_QUARTIER] [PERSO_AMADOU_ADULTE] Medium-wide shot, Amadou sweeping the sidewalk with his long street broom, his green wheeled street-cleaning cart with a bin beside him, a few dry leaves and papers on the ground.
+- **Vidéo :** Amadou sweeps calmly and methodically in long regular strokes, pushing leaves and papers into a small pile, static camera.
+- **Son / dialogue :** Balai sur le bitume, feuilles, roulettes du chariot
+- **Note :** Agent de propreté qui balaie les rues (validé)
 
 ### SQ010_SH020_C02 — 0:13–0:18 (5 s) · LUM_PRESENT
 - **Références :** REF_amadouAdulte_visage + REF_amadouAdulte_turnaround
-- **Image clé :** [PERSO_AMADOU_ADULTE] Medium shot from the side, Amadou focused on his task, slightly tired expression.
-- **Vidéo :** He pauses, wipes his forehead with the back of his hand, then continues. Subtle handheld feel.
-- **Son / dialogue :** Souffle, bruits du travail
+- **Image clé :** [PERSO_AMADOU_ADULTE] Medium shot from the side, Amadou leaning on his broom handle, slightly tired expression, his cleaning cart behind him.
+- **Vidéo :** He pauses, wipes his forehead with the back of his hand, then starts sweeping again. Subtle handheld feel.
+- **Son / dialogue :** Souffle, balai, pelle
 
 ### SQ010_SH030_C01 — 0:18–0:22 (4 s) · LUM_PRESENT
 - **Références :** -
@@ -30,8 +30,8 @@
 
 ### SQ010_SH030_C02 — 0:22–0:26 (4 s) · LUM_PRESENT
 - **Références :** REF_amadouAdulte_visage + REF_amadouAdulte_turnaround
-- **Image clé :** [PERSO_AMADOU_ADULTE] Medium close-up, Amadou lifts his head toward the sound of the ball, the pitch blurred in the background.
-- **Vidéo :** He slowly stops working and turns his head toward the kids; his eyes follow the ball.
+- **Image clé :** [PERSO_AMADOU_ADULTE] Medium close-up, Amadou holding his broom, lifts his head toward the sound of the ball, the pitch blurred in the background.
+- **Vidéo :** His broom slows down and stops; he turns his head toward the kids, his eyes follow the ball.
 - **Son / dialogue :** Bruit de ballon plus présent
 - **Note :** Raccord regard
 
@@ -188,9 +188,9 @@
 
 ### SQ040_SH020_C03 — 2:20–2:25 (5 s) · LUM_PRESENT
 - **Références :** REF_amadouAdulte_visage + REF_amadouAdulte_turnaround
-- **Image clé :** [DECOR_QUARTIER] [PERSO_AMADOU_ADULTE] Amadou walking to work in the morning street.
-- **Vidéo :** He walks away from the camera into the neighborhood, routine.
-- **Son / dialogue :** Ambiance du matin
+- **Image clé :** [DECOR_QUARTIER] [PERSO_AMADOU_ADULTE] Amadou pushing his street-cleaning cart down the morning street, broom in hand.
+- **Vidéo :** He walks away from the camera pushing the cart, then starts sweeping the gutter, routine.
+- **Son / dialogue :** Ambiance du matin, roulettes du chariot, balai
 - **Note :** Il exerce un métier qu'il n'avait pas choisi
 
 ### SQ050_SH010_C01 — 2:25–2:30 (5 s) · LUM_PRESENT
@@ -202,7 +202,7 @@
 
 ### SQ050_SH010_C02 — 2:30–2:35 (5 s) · LUM_PRESENT
 - **Références :** REF_amadouAdulte_visage + REF_amadouAdulte_turnaround
-- **Image clé :** [PERSO_AMADOU_ADULTE] Medium shot, Amadou watching the kids, his tool still in hand.
+- **Image clé :** [PERSO_AMADOU_ADULTE] Medium shot, Amadou watching the kids, leaning on his broom, his cart beside him.
 - **Vidéo :** He watches, motionless, a soft nostalgic smile.
 - **Son / dialogue :** Thème
 
@@ -229,8 +229,8 @@
 ### SQ050_SH030_C01 — 2:50–2:56 (6 s) · LUM_PRESENT
 - **Références :** REF_amadouAdulte_visage + REF_amadouAdulte_turnaround
 - **Image clé :** [DECOR_TERRAIN] [PERSO_AMADOU_ADULTE] [PERSO_ENFANTS_PRESENT] Amadou in the foreground, kids playing in the background.
-- **Vidéo :** He looks at the kids one last time, then turns back to his work and walks away, leaving them to play. He says nothing.
-- **Son / dialogue :** Laisser respirer
+- **Vidéo :** He looks at the kids one last time, then lowers his eyes, starts sweeping again and moves away with his cart, leaving them to play. He says nothing.
+- **Son / dialogue :** Laisser respirer ; le balai reprend
 - **Note :** Ne pas parler aux enfants, ne pas les encourager
 
 ### SQ050_SH040_C01 — 2:56–3:00 (4 s) · -

@@ -31,7 +31,7 @@ Stylized 3D animated feature film, high-end CG animation render. Appealing chara
 
 ### `PERSO_AMADOU_ADULTE` — références : `REF_amadouAdulte_visage.png`, `REF_amadouAdulte_turnaround.png`
 ```
-Amadou, a 42-year-old Black man of African descent, warm medium-dark brown skin, round friendly face, short dense black coily hair, short full black beard with a neat mustache, kind brown eyes that look slightly tired, a discreet gentle smile, medium build, a little heavier than in his youth. Wearing a navy blue long-sleeve work top, a fluorescent yellow high-visibility safety vest with silver reflective stripes and no writing, dark navy cargo work trousers, black work boots.
+Amadou, a 42-year-old Black man of African descent, warm medium-dark brown skin, round friendly face, short dense black coily hair, short full black beard with a neat mustache, kind brown eyes that look slightly tired, a discreet gentle smile, medium build, a little heavier than in his youth. Wearing a navy blue long-sleeve work top, a fluorescent yellow high-visibility safety vest with silver reflective stripes and no writing, dark navy cargo work trousers, black work boots, work gloves. He is a municipal street cleaner: a long street broom in his hands and a green wheeled street-cleaning cart with a bin, both with no writing.
 ```
 
 ### `PERSO_AMADOU_ADO` — références : `REF_amadouAdo_visage.png`, `REF_amadouAdo_turnaround.png`, `REF_amadou_duo_portrait.png`
@@ -49,7 +49,7 @@ Amadou's mother, a Black woman of African descent around 42 years old, warm dark
 
 `PERSO_COLLEGUE` (proposition) :
 ```
-A municipal co-worker in his fifties, friendly weathered face, short grey hair, same navy work top and yellow high-visibility vest with no writing as Amadou.
+A municipal street-cleaning co-worker in his fifties, friendly weathered face, short grey hair, same navy work top, yellow high-visibility vest with no writing and work gloves as Amadou, holding a broom or a litter picker.
 ```
 `PERSO_ENTRAINEUR` (proposition) :
 ```

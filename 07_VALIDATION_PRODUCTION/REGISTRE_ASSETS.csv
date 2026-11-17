@@ -22,7 +22,7 @@ PRP_lampadaire,accessoire,Lampadaire,,SQ010 SQ050,P3,blockout v001,fond,instanci
 PRP_arbre,accessoire,Arbres (x3 variantes),,SQ010 SQ020 SQ050,P2,blockout v001,fond,instancié,
 PRP_fenetre,accessoire,Modules de façade (fenêtres/portes/balcons),,SQ010 SQ020 SQ050,P2,blockout v001,fond,modulaire,
 PRP_commerce,accessoire,Devantures de petits commerces,,SQ010 SQ050,P3,à concevoir,fond,modulaire,Sans enseignes de marques réelles
-PRP_outilTravail,accessoire,Outil(s) de travail de l'agent,"À définir selon le métier (balai, chariot, pince…)",SQ010 SQ050,P1,bloqué,héros,,Dépend du métier précis
+PRP_outilTravail,accessoire,Outils de l'agent de propreté,"Balai de voirie, chariot de propreté vert avec poubelle, pelle, gants",SQ010 SQ040 SQ050,P1,à concevoir,héros,,Métier validé : agent de propreté qui balaie les rues
 PRP_cahiers,accessoire,Cahiers / livres scolaires,,SQ030 SQ040,P1,à concevoir,héros,,
 PRP_maillot,accessoire,Maillot plié / suspendu,,SQ040,P2,à concevoir,secondaire,,
 PRP_trophee,accessoire,Trophée modeste,,SQ040,P3,à concevoir,secondaire,,
