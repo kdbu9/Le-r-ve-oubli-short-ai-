@@ -1,0 +1,9 @@
+# Rendus lourds et fichiers temporaires Blender
+production/rendus/
+*.blend1
+*.blend2
+*.blend@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

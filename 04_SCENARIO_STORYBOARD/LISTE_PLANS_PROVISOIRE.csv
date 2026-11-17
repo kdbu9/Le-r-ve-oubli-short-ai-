@@ -1,0 +1,15 @@
+id_plan,sequence,plan,debut_tc,fin_tc,duree_s,image_debut,image_fin,nb_images,lieu,intention,son,statut
+SQ010_SH010,SQ010,SH010,0:00,0:08,8,1,192,192,Quartier,Plan d'ensemble du quartier,"Circulation, jeux d'enfants",provisoire
+SQ010_SH020,SQ010,SH020,0:08,0:18,10,193,432,240,Quartier,Plan moyen de l'agent municipal dans son activité,Bruits du travail (métier à préciser),provisoire
+SQ010_SH030,SQ010,SH030,0:18,0:30,12,433,720,288,Quartier / terrain,Les enfants jouent ; ballon et voix attirent son regard ; raccord regard,"Ballon, voix ; nostalgie musicale discrète",provisoire
+SQ020_SH010,SQ020,SH010,0:30,0:40,10,721,960,240,Transition -> terrain (souvenir),"Entrée dans le souvenir, transition sonore et lumineuse",Transition vers le thème,provisoire
+SQ020_SH020,SQ020,SH020,0:40,1:05,25,961,1560,600,Terrain (souvenir),"Match : dribbles lisibles, réactions adversaires/spectateurs","Thème ample, percussions",provisoire
+SQ020_SH030,SQ020,SH030,1:05,1:15,10,1561,1800,240,Terrain (souvenir),"Célébration : entraîneur fier, coéquipiers, Amadou rayonnant","Thème, réactions",provisoire
+SQ030_SH010,SQ030,SH010,1:15,1:25,10,1801,2040,240,Maison,"Transition vers le foyer, ambiance plus calme",Sons domestiques,provisoire
+SQ030_SH020,SQ030,SH020,1:25,1:55,30,2041,2760,720,"Maison (salon ou cuisine, à choisir)","Discussion mère-fils, champ/contrechamp, gros plans","Piano / notes espacées, silences ; dialogues à écrire",provisoire
+SQ040_SH010,SQ040,SH010,1:55,2:10,15,2761,3120,360,Chambre d'Amadou,"Ballon délaissé, cahiers ouverts, temps qui passe","Thème ralenti, pages, crayon",provisoire
+SQ040_SH020,SQ040,SH020,2:10,2:25,15,3121,3480,360,Chambre -> quartier,Transition visuelle vers le travail d'agent municipal,Thème fragmenté,provisoire
+SQ050_SH010,SQ050,SH010,2:25,2:40,15,3481,3840,360,Quartier (présent),Même quartier ; le regard revient vers les enfants,Retour discret du thème,provisoire
+SQ050_SH020,SQ050,SH020,2:40,2:50,10,3841,4080,240,Quartier (présent),"Appel du collègue : « Allez, au boulot, on a du travail ! »",Réplique exacte ; thème interrompu,provisoire
+SQ050_SH030,SQ050,SH030,2:50,2:56,6,4081,4224,144,Quartier (présent),"Dernier regard vers les enfants, puis il reprend son travail",Laisser respirer,provisoire
+SQ050_SH040,SQ050,SH040,2:56,3:00,4,4225,4320,96,Écran noir,"« N'éteignez pas leurs rêves. » / « Un talent a besoin d'être encouragé, pas étouffé. »",Aucun dialogue supplémentaire,provisoire

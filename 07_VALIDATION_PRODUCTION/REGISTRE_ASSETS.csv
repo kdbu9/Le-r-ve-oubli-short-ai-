@@ -1,0 +1,36 @@
+id,type,nom,description,sequences,priorite,statut,niveau_detail,reutilisation,notes
+CHR_amadouAdulte,personnage,Amadou adulte (nom de travail),"Agent municipal ~42 ans, haut bleu marine, gilet fluo, pantalon sombre",SQ010 SQ040 SQ050,P1,proxy proportions v001,héros,,Même base faciale que l'ado ; tenue dépend du métier précis (à confirmer)
+CHR_amadouAdo,personnage,Amadou adolescent (nom de travail),"16 ans, silhouette fine et sportive, maillot bordeaux à détails crème",SQ020 SQ030 SQ040,P1,proxy proportions v001,héros,,Variante d'âge de la même base faciale
+CHR_mere,personnage,La mère,"38–45 ans, tenue wax bordeaux/ocre, foulard assorti, bijoux discrets",SQ030,P1,à concevoir,héros,,Apparence de la planche 02 validée ; jamais antagoniste
+CHR_collegue,personnage,Collègue ou responsable,Interpelle l'agent à la fin,SQ050,P2,à concevoir,secondaire,,Réplique exacte : « Allez, au boulot, on a du travail ! »
+CHR_entraineur,personnage,Entraîneur (souvenir),Fier d'Amadou,SQ020,P2,à concevoir,secondaire,,
+CHR_coequipiers,personnage,Coéquipiers (x3–4),Variantes d'une base commune,SQ020,P3,à concevoir,secondaire,variantes,Éviter les foules avant validation de l'animatique
+CHR_adversaires,personnage,Adversaires (x3–4),Variantes d'une base commune,SQ020,P3,à concevoir,secondaire,variantes,
+CHR_spectateurs,personnage,Parents / spectateurs (x6–9),Bord du terrain,SQ020,P3,proxys capsules v001,fond,variantes,
+CHR_enfantsPresent,personnage,Enfants du quartier (présent) (x6–8),Jouent au football,SQ010 SQ050,P2,à concevoir,secondaire,variantes,Peuvent réutiliser les bases ado à l'échelle enfant
+SET_quartier,decor,Quartier,"Immeubles, trottoirs, arbres, petits commerces, espaces partagés",SQ010 SQ040 SQ050,P1,à concevoir,principal,modulaire,Partage les modules urbains avec SET_terrain
+SET_terrain,decor,Terrain de football de quartier,"Terrain, grillage, cages, lignes, bancs, spectateurs",SQ010 SQ020 SQ050,P1,blockout v001,principal,modulaire,Présent et souvenir : même géographie ; deux éclairages testés
+SET_maisonSalon,decor,Maison — salon,"Canapé, table basse, lampe, photos, plantes",SQ030,P1,à concevoir,principal,modulaire,Lieu possible de la discussion
+SET_maisonCuisine,decor,Maison — cuisine / espace repas,"Table, chaises, vaisselle, réfrigérateur, placards",SQ030,P2,à concevoir,principal,modulaire,Lieu possible de la discussion (salon OU cuisine à choisir)
+SET_chambreAdo,decor,Chambre d'Amadou adolescent,"Lit, bureau, cahiers, ballon, maillot ou trophée modeste",SQ040,P1,à concevoir,principal,modulaire,Ne pas surcharger de symboles
+SET_cartonFinal,decor,Écran noir + textes finaux,Deux phrases exactes,SQ050,P1,à concevoir,graphique,,Texte verrouillé ; typographie à choisir
+PRP_ballon,accessoire,Ballon de football,Usé (présent) / neuf ou propre (souvenir),SQ010 SQ020 SQ040 SQ050,P1,proxy,héros,,Élément visuel du renoncement
+PRP_cage,accessoire,Cage de but,Poteaux + filet,SQ010 SQ020 SQ050,P1,blockout v001,principal,instanciée,
+PRP_grillage,accessoire,Grillage de terrain,Panneaux + poteaux,SQ010 SQ020 SQ050,P1,blockout v001,principal,modulaire,
+PRP_banc,accessoire,Banc public,,SQ010 SQ020,P2,blockout v001,fond,instancié,
+PRP_lampadaire,accessoire,Lampadaire,,SQ010 SQ050,P3,blockout v001,fond,instancié,
+PRP_arbre,accessoire,Arbres (x3 variantes),,SQ010 SQ020 SQ050,P2,blockout v001,fond,instancié,
+PRP_fenetre,accessoire,Modules de façade (fenêtres/portes/balcons),,SQ010 SQ020 SQ050,P2,blockout v001,fond,modulaire,
+PRP_commerce,accessoire,Devantures de petits commerces,,SQ010 SQ050,P3,à concevoir,fond,modulaire,Sans enseignes de marques réelles
+PRP_outilTravail,accessoire,Outil(s) de travail de l'agent,"À définir selon le métier (balai, chariot, pince…)",SQ010 SQ050,P1,bloqué,héros,,Dépend du métier précis
+PRP_cahiers,accessoire,Cahiers / livres scolaires,,SQ030 SQ040,P1,à concevoir,héros,,
+PRP_maillot,accessoire,Maillot plié / suspendu,,SQ040,P2,à concevoir,secondaire,,
+PRP_trophee,accessoire,Trophée modeste,,SQ040,P3,à concevoir,secondaire,,
+PRP_mobilierMaison,accessoire,"Canapé, tables, chaises, lit, bureau, lampe",,SQ030 SQ040,P2,à concevoir,secondaire,modulaire,
+PRP_objetsQuotidien,accessoire,"Vaisselle, torchons, photos, plantes",,SQ030,P3,à concevoir,fond,modulaire,
+MUS_theme,audio,Thème principal (motif 5–8 notes),Arrangements : ample / piano / ralenti / discret,toutes,P1,à composer,,,Musique originale uniquement
+SFX_terrain,audio,"Rebonds, frappes, pas, grillage, réactions",,SQ010 SQ020 SQ050,P2,à lister,,,
+SFX_quartier,audio,"Circulation, conversations diffuses, commerces",,SQ010 SQ050,P2,à lister,,,
+SFX_maison,audio,"Vaisselle, chaise, pages, porte",,SQ030 SQ040,P2,à lister,,,
+DIA_mereFils,audio,Dialogues de la scène familiale,,SQ030,P1,à écrire,,,À valider par le directeur artistique
+DIA_collegue,audio,« Allez, au boulot, on a du travail ! »,,SQ050,P1,verrouillé,,,Réplique exacte
